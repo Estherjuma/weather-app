@@ -2,6 +2,23 @@ body{
     background-color: whitesmoke;
     font-family: 'Salsa', cursive;;
 }
+a{
+    color: whitesmoke;
+}
+header{
+    border-bottom: 1px solid grey;
+    padding: 15px;
+}
+main{
+    padding: 20px;
+}
+footer{
+    border-top: 1px solid grey;
+    padding: 20px 0 0 0;
+    text-align: center;
+    font-size: 13px;
+    color: 0, 0, 0, 0.5;
+}
 .weather-app{
     background-color: plum;
     max-width: 600px;
@@ -9,4 +26,47 @@ body{
     padding: 30px ;
     border-radius: 20px ;
     box-shadow: 0 10px 30px black;
+}
+.search-form-input{
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 8px;
+    padding: 15px;
+    width: 80%;
+    font-size: 15px;
+}
+.search-form-button{
+    padding: 15px 20px;
+    border-radius: 8px;
+    border: none;
+    background: whitesmoke;
+    margin-left: 10px;
+}
+.weather-app-data{
+    display: flex;
+    justify-content: space-between;
+}
+.weather-app-city{
+    font-size: 50px;
+    margin: 0;
+}
+.weather-app-details{
+    line-height: 25px;
+}
+.weather-app-details strong{
+    color: rgb(116, 8, 41);
+}
+.weather-app-container{
+    display: flex;
+}
+.weather-app-temp{
+    font-size: 90px;
+}
+.weather-app-icon{
+    font-size: 60px;
+    margin-top: 20px;
+}
+.weather-app-unit{
+margin-top: 20px;
+font-size: 40px;
 }
