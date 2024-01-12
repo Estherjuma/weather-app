@@ -39,8 +39,10 @@ footer{
     padding: 15px 20px;
     border-radius: 8px;
     border: none;
-    background-color: whitesmoke;
+    background-color: rgb(116, 8, 41);
     margin-left: 10px;
+    font-size: 15px;
+    color: whitesmoke;
 }
 .weather-app-data{
     display: flex;
