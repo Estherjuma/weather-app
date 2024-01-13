@@ -65,8 +65,10 @@ footer{
     font-size: 90px;
 }
 .weather-app-icon{
-    font-size: 60px;
-    margin-top: 20px;
+    font-size: 70px;
+    height: 100px;
+    margin-top: 10px;
+    margin-right: 1px;
 }
 .weather-app-unit{
 margin-top: 20px;
