@@ -77,7 +77,8 @@ font-size: 40px;
 
 .weather-forecast{
     margin-top: 20px;
-    
+    display: flex;
+    justify-content: space-between;
 }
 .weather-forecast-temp-min{
     opacity: 0.6;
