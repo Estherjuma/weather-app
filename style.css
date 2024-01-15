@@ -74,3 +74,11 @@ footer{
 margin-top: 20px;
 font-size: 40px;
 }
+
+.weather-forecast{
+    margin-top: 20px;
+    
+}
+.weather-forecast-temp-min{
+    opacity: 0.6;
+}
