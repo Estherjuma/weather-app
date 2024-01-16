@@ -29,7 +29,7 @@ function formattedDate(date) {
         "Mon",
         "Tue",
         "Wed",
-        "Thur",
+        "Thu",
         "Fri",
         "Sat",
     ];
@@ -67,7 +67,7 @@ function formattedDay(timestamp) {
         "Mon",
         "Tue",
         "Wed",
-        "Thur",
+        "Thu",
         "Fri",
         "Sat",
      ];
