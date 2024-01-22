@@ -44,6 +44,10 @@ footer{
     font-size: 15px;
     color: whitesmoke;
 }
+.search-form-button:hover{
+    background-color: black;
+    
+}
 .weather-app-data{
     display: flex;
     justify-content: space-between;
